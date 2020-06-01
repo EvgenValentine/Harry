@@ -1,3 +1,10 @@
+/*
+ * Classname Main
+ *
+ * Version info 1
+ *
+ * Copyright Evgen Khnyznytskij
+ */
 package com.company;
 
 import  java.io.IOException;
